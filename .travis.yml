@@ -9,3 +9,5 @@ jobs:
     - mvn clean package
 
 script: ruby src/test/ruby/suite.rb
+
+
